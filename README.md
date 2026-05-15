@@ -3,6 +3,10 @@
 End-to-end data analytics project based on The Movies Dataset.  
 The goal of the project is to analyze which movie characteristics are associated with higher user ratings and build a complete analytics pipeline from data cleaning to SQL marts and Power BI dashboard.
 
+## Dashboard Preview
+
+![Dashboard Overview](dashboard/overview.png)
+
 ## Project Goal
 
 **What factors are associated with a high movie rating?**
